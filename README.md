@@ -11,7 +11,7 @@ For an input of "Alice", the response should be "Hello, Alice!".
 If a name is not given, the response should be "Hello, World!"
 
 
-
+//To confirm :
 
 ## Test-Driven Development
 
@@ -26,7 +26,7 @@ the problem.
 It will also provide you with a safety net to explore other solutions without
 breaking the functionality.
 
-### A typical TDD workflow on Exercism:
+### A typical TDD workflow:
 
 1. Run the test file and pick one test that's failing.
 2. Write some code to fix the test you picked.
